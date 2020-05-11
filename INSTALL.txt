@@ -1,0 +1,15 @@
+
+You will need to have the graphics library installed to play our game, Tetris.
+
+You can use the command [opam install graphics] to install the library.
+
+To play the game, enter the command [make play] in terminal.
+
+Controls:
+A- move left 
+S- soft drop
+D- move right
+W- rotate 
+C- hold
+Space- hard drop
+When prompted: Y- play again

@@ -1,0 +1,634 @@
+{
+  "tiles": [
+    {
+      "name": "long",
+      "color": "0x0F9AD7",
+      "orientations": [
+        {
+          "oname": "orientation1",
+          "coordinates": [
+            {
+              "x": -2,
+              "y": 1
+            },
+            {
+              "x": -1,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": 1
+            },
+            {
+              "x": 1,
+              "y": 1
+            }
+          ]
+        },
+        {
+          "oname": "orientation2",
+          "coordinates": [
+            {
+              "x": 0,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": -1
+            },
+            {
+              "x": 0,
+              "y": -2
+            }
+          ]
+        },
+        {
+          "oname": "orientation3",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 1,
+              "y": 0
+            },
+            {
+              "x": 2,
+              "y": 0
+            }
+          ]
+        },
+        {
+          "oname": "orientation4",
+          "coordinates": [
+            {
+              "x": 0,
+              "y": 2
+            },
+            {
+              "x": 0,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "square",
+      "color": "0xE39F00",
+      "orientations": [
+        {
+          "oname": "orientation1",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": -1,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": 1
+            }
+          ]
+        },
+        {
+          "oname": "orientation2",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": -1,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": 1
+            }
+          ]
+        },
+        {
+          "oname": "orientation3",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": -1,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": 1
+            }
+          ]
+        },
+        {
+          "oname": "orientation4",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": -1,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "s-block",
+      "color": "0x58B103",
+      "orientations": [
+        {
+          "oname": "orientation1",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 1
+            },
+            {
+              "x": 1,
+              "y": 1
+            }
+          ]
+        },
+        {
+          "oname": "orientation2",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": 1
+            },
+            {
+              "x": -1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": -1
+            }
+          ]
+        },
+        {
+          "oname": "orientation3",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": -1
+            },
+            {
+              "x": 0,
+              "y": -1
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 1,
+              "y": 0
+            }
+          ]
+        },
+        {
+          "oname": "orientation4",
+          "coordinates": [
+            {
+              "x": 0,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 1,
+              "y": 0
+            },
+            {
+              "x": 1,
+              "y": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "z-block",
+      "color": "0xD71037",
+      "orientations": [
+        {
+          "oname": "orientation1",
+          "coordinates": [
+            {
+              "x": 1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 1
+            },
+            {
+              "x": -1,
+              "y": 1
+            }
+          ]
+        },
+        {
+          "oname": "orientation2",
+          "coordinates": [
+            {
+              "x": 0,
+              "y": -1
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 1,
+              "y": 0
+            },
+            {
+              "x": 1,
+              "y": 1
+            }
+          ]
+        },
+        {
+          "oname": "orientation3",
+          "coordinates": [
+            {
+              "x": 1,
+              "y": -1
+            },
+            {
+              "x": 0,
+              "y": -1
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": -1,
+              "y": 0
+            }
+          ]
+        },
+        {
+          "oname": "orientation4",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": -1
+            },
+            {
+              "x": -1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "tee",
+      "color": "0xAF298B",
+      "orientations": [
+        {
+          "oname": "orientation1",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 1
+            },
+            {
+              "x": 1,
+              "y": 0
+            }
+          ]
+        },
+        {
+          "oname": "orientation2",
+          "coordinates": [
+            {
+              "x": 1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": -1
+            }
+          ]
+        },
+        {
+          "oname": "orientation3",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": -1
+            },
+            {
+              "x": 1,
+              "y": 0
+            }
+          ]
+        },
+        {
+          "oname": "orientation4",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": -1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "l-shape",
+      "color": "0xE35B02",
+      "orientations": [
+        {
+          "oname": "orientation1",
+          "coordinates": [
+            {
+              "x": 0,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": -1
+            },
+            {
+              "x": 1,
+              "y": -1
+            }
+          ]
+        },
+        {
+          "oname": "orientation2",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": -1
+            },
+            {
+              "x": -1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 1,
+              "y": 0
+            }
+          ]
+        },
+        {
+          "oname": "orientation3",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": -1
+            }
+          ]
+        },
+        {
+          "oname": "orientation4",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 1,
+              "y": 0
+            },
+            {
+              "x": 1,
+              "y": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "j-shape",
+      "color": "0x2140C6",
+      "orientations": [
+        {
+          "oname": "orientation1",
+          "coordinates": [
+            {
+              "x": 0,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": -1
+            },
+            {
+              "x": -1,
+              "y": -1
+            }
+          ]
+        },
+        {
+          "oname": "orientation2",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": 1
+            },
+            {
+              "x": -1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 1,
+              "y": 0
+            }
+          ]
+        },
+        {
+          "oname": "orientation3",
+          "coordinates": [
+            {
+              "x": 1,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": 1
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": -1
+            }
+          ]
+        },
+        {
+          "oname": "orientation4",
+          "coordinates": [
+            {
+              "x": -1,
+              "y": 0
+            },
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 1,
+              "y": 0
+            },
+            {
+              "x": 1,
+              "y": -1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
